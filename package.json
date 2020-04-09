@@ -2,6 +2,8 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
+    "start": "next start",
+    "export": "next export",
     "start": "NODE_ENV=production node server.js"
   },
   "name": "hello-next",
